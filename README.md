@@ -5,7 +5,8 @@ Advanced techniques for design, analysis, and implementation of algorithms and d
 ## Algorithmic design paradigms: 
 Greedy, divide-and-conquer, dynamic programming, backtracking, branch and bound. 
 
-## Advanced Analysis techniques, such as amortization. 
+## Advanced Analysis techniques:
+Amortization. 
 
 ## Advanced data structures: 
 Hashing, disjoint sets. 
